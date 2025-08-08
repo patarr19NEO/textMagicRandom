@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="textMagicRandom",
-    version="1.2.0",
+    version="1.4.0",
     author="patarr19",
     description="Генератор никнеймов, паролей и текстовых заглушек",  # Описание
     packages=find_packages(),  # Автоматически найдет все пакеты
