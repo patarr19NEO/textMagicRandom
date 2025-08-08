@@ -1,0 +1,5 @@
+setup.py
+textMagicRandom.egg-info/PKG-INFO
+textMagicRandom.egg-info/SOURCES.txt
+textMagicRandom.egg-info/dependency_links.txt
+textMagicRandom.egg-info/top_level.txt
