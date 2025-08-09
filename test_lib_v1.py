@@ -5,8 +5,9 @@ from text_magic_random import *
 def searchin_rare():
     while True:
         nickname = generator.generate_nicknames()
-        if "Черный_Раб_42" or "Розовый_Единорог_42" in nickname:
+        if "Черный_Раб_42" in nickname or "Розовый_Единорог_42" in nickname:
             time.sleep(0.1)
+            print(nickname)
             print("ОН НАШЕЛСЯ!")
             break
         else:
